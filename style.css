@@ -1,0 +1,49 @@
+body{
+    background-color: #333;
+    margin: 0;
+}
+
+.link{
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+p{
+    color:white;
+}
+
+a{
+    color: blanchedalmond;
+}
+
+.welcome{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title{
+    color: blanchedalmond;
+    padding: 5px 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    background-color: #333;
+    border: 3px solid #2565AE;
+    padding: 20px;
+    display: flex;
+}
+
+.return{
+    padding: 5px 30px;
+
+}
+
+.paragraph{
+    padding: 5px 30px;
+    color: white;
+    border: 20%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
