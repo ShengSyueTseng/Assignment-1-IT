@@ -3,6 +3,13 @@ body{
     margin: 0;
 }
 
+.containerhome{
+    width: 50%;
+    margin: 20px auto;
+    padding: 10px;
+    text-align:center;
+}
+
 .container{
     width: 50%;
     margin: 20px auto;
@@ -49,7 +56,7 @@ header{
 }
 
 .here{
-    color:red;
+    color:darkblue;
     text-decoration: none;
 }
 
