@@ -3,10 +3,54 @@ body{
     margin: 0;
 }
 
+.container{
+    width: 90%;
+    margin: auto;
+}
+
+header{
+    background-color: #333;
+    border: 3px solid yellow;
+    padding: 20px 0;    
+}
+
 .link{
     font-size: 25px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+    display: inline;
+    margin-right: 65px;
+    text-decoration: none;
+}
+
+.link:hover{
+    color: yellow;
+}
+
+.welcome{
+    margin-left: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    font-size: 2vw;
+}
+
+.bigword{
+    margin-left: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 65px;
+    text-align: center;
+}
+
+.here{
+    color:red;
+    text-decoration: none;
+}
+
+table{
+    margin: auto;
+}
+
+.face{
+    width: 300px;
 }
 
 p{
@@ -17,33 +61,13 @@ a{
     color: blanchedalmond;
 }
 
-.welcome{
-    text-align: center;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
 .title{
     color: blanchedalmond;
-    padding: 5px 30px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-header{
-    background-color: #333;
-    border: 3px solid #2565AE;
-    padding: 20px;
-    display: flex;
-}
-
-.return{
-    padding: 5px 30px;
-
 }
 
 .paragraph{
-    padding: 5px 30px;
     color: white;
     border: 20%;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
