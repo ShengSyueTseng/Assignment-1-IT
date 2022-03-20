@@ -16,22 +16,13 @@ header{
     
 }
 
-.homep{
-    font-size: 10px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-decoration: none;
-    display: inline;
-    margin: auto 30px;
-    margin-top: 20px;
-    border: black;
-}
 
 .link{
-    font-size: 10px;
+    font-size: 11px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: inline;
     text-align: center;
-    margin: auto 30px ;
+    margin: auto 25px ;
     text-decoration: none;
     
 }
