@@ -1,6 +1,7 @@
 body{
-    background-color: lightgray;
+    background-color: #e2e2e2;
     margin: 0;
+    
 }
 
 .containerhome{
@@ -8,6 +9,7 @@ body{
     margin: 20px auto;
     padding: 10px;
     text-align:center;
+   
 }
 
 .container{
@@ -15,14 +17,14 @@ body{
     margin: 20px auto;
     padding: 10px;
     text-align:justify;
-}
-
-header{
-    background-color: ghostwhite;
-    padding: 20px 0;    
     
 }
 
+header{
+    background-color: white;
+    padding: 20px 0;    
+    border-bottom: solid grey;
+}
 
 .link{
     font-size: 11px;
@@ -30,12 +32,20 @@ header{
     display: inline;
     text-align: center;
     margin: auto 25px ;
-    text-decoration: none;
-    
+    text-decoration: none;   
 }
 
 .link:hover{
     color: #8FBC8F;
+}
+
+.fuji{
+    margin: 0;
+    width: 150px;
+    height:auto;
+    float: right;
+    position: relative;
+    bottom: 55px;
 }
 
 .welcome{
@@ -86,4 +96,17 @@ a{
     color: rgb(32, 32, 32);
     border: 20%;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.joblink{
+    font-size: 15px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline;
+    text-align: center;
+    margin: auto 10px ;
+    text-decoration: none; 
+    color: darkblue;
+}
+.joblink:hover{
+    color: #8FBC8F;
 }
