@@ -21,7 +21,7 @@ body{
 }
 
 header{
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.904);
     padding: 20px 0;    
     border-bottom: solid grey;
 }
@@ -45,7 +45,17 @@ header{
     height:auto;
     float: right;
     position: relative;
-    bottom: 55px;
+    bottom: 46.5px;
+}
+
+
+.sat{
+    margin: 0;
+    width: 75px;
+    height:120px;
+    float: right;
+    position: relative;
+    bottom: 100.5px;
 }
 
 .welcome{
