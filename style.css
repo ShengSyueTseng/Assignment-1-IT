@@ -1,6 +1,7 @@
 body{
-    background-color: #e2e2e2;
+    background: #e2e2e2;
     margin: 0;
+    
     
 }
 
@@ -13,7 +14,7 @@ body{
 }
 
 .container{
-    width: 50%;
+    width: 60%;
     margin: 20px auto;
     padding: 10px;
     text-align:justify;
@@ -21,7 +22,7 @@ body{
 }
 
 header{
-    background-color: rgba(255, 255, 255, 0.904);
+    background-color: white;
     padding: 20px 0;    
     border-bottom: solid grey;
 }
@@ -41,11 +42,11 @@ header{
 
 .fuji{
     margin: 0;
-    width: 150px;
+    width: 70px;
     height:auto;
     float: right;
     position: relative;
-    bottom: 46.5px;
+    bottom: 78px;
 }
 
 
@@ -106,6 +107,26 @@ a{
     color: rgb(32, 32, 32);
     border: 20%;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.job1{
+    width: 250px;
+    float: right;
+    position: relative;
+    bottom: 700px;
+    left: 270px;
+    border-radius: 10px 10px 0 0;
+    
+}
+
+.job2{
+    width: 251px;
+    float:right;
+    position: relative;
+    bottom: 443px;
+    left: 521px;
+    border-radius: 0 0 10px 10px;
+    
 }
 
 .joblink{
