@@ -10,7 +10,6 @@ body{
     margin: 20px auto;
     padding: 10px;
     text-align:center;
-   
 }
 
 .container{
@@ -59,9 +58,24 @@ header{
     bottom: 100.5px;
 }
 
+.first{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.myface{
+    flex-basis: 20%;
+}
+
+.face{
+    width: 250px;
+    border-radius: 0 20px 0 20px;
+}
+
+
 .welcome{
     font-size: 18px;
-    margin-left: 45px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: left;
     color: dimgrey;
@@ -79,14 +93,6 @@ header{
 .here{
     color:red;
     text-decoration: none;
-}
-
-table{
-    margin: auto;
-}
-
-.face{
-    width: 300px;
 }
 
 p{
@@ -127,9 +133,6 @@ a{
     left: 521px;
     border-radius: 0 0 10px 10px;    
 }
-
-
-
 
 .joblink{
     font-size: 15px;
