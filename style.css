@@ -77,7 +77,7 @@ header{
 }
 
 .here{
-    color:darkblue;
+    color:red;
     text-decoration: none;
 }
 
@@ -113,7 +113,7 @@ a{
     width: 250px;
     float: right;
     position: relative;
-    bottom: 700px;
+    bottom: 650px;
     left: 270px;
     border-radius: 10px 10px 0 0;
     
@@ -123,11 +123,13 @@ a{
     width: 251px;
     float:right;
     position: relative;
-    bottom: 443px;
+    bottom: 393px;
     left: 521px;
-    border-radius: 0 0 10px 10px;
-    
+    border-radius: 0 0 10px 10px;    
 }
+
+
+
 
 .joblink{
     font-size: 15px;
@@ -136,8 +138,36 @@ a{
     text-align: center;
     margin: auto 10px ;
     text-decoration: none; 
-    color: darkblue;
+    color: red;
 }
 .joblink:hover{
     color: #8FBC8F;
+}
+
+.res1{
+    width: 250px;
+    float: right;
+    position: relative;
+    bottom: 720px;
+    left: 270px;
+    border-radius: 20px;
+
+}
+
+.res2{
+    width: 251px;
+    float:right;
+    position: relative;
+    bottom: 463px;
+    left: 521px;
+    border-radius: 20px;
+}
+
+.res3{
+    width: 251px;
+    float:right;
+    position: relative;
+    bottom: 273px;
+    left: 770px;
+    border-radius: 20px;
 }
